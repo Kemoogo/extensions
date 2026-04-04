@@ -1341,7 +1341,7 @@
       "id": "verify",
       "description": "Post-implementation quality gate that validates implemented code against specification artifacts.",
       "author": "ismaelJimenez",
-      "version": "1.0.0",
+      "version": "1.0.3",
       "download_url": "https://github.com/ismaelJimenez/spec-kit-verify/archive/refs/tags/v1.0.3.zip",
       "repository": "https://github.com/ismaelJimenez/spec-kit-verify",
       "homepage": "https://github.com/ismaelJimenez/spec-kit-verify",
